@@ -1,4 +1,9 @@
 0 steve
-1 MarioMario 
+1 MarioMario
 2 Sonic
 3 MasterChief
+4 Link
+5 Pikachu
+6 LaraCroft
+7 Kratos
+8 PacMan
